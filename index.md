@@ -1,3 +1,3 @@
-** Hello Scetions !!! **
+**Hello Scetions !!!**
 
-** Thank You for joining this session **
+**Thank You for joining this session**
